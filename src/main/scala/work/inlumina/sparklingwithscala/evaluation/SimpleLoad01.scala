@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.evaluation
+package work.inlumina.sparklingwithscala.evaluation
 
 import org.apache.spark.ml.linalg.Vector
 import org.apache.spark.ml.tuning.CrossValidatorModel

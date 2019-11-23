@@ -1,3 +1,5 @@
+package work.inlumina.sparklingwithscala.pca
+
 import org.apache.spark.ml.feature.{PCA, StandardScaler, VectorAssembler}
 import org.apache.spark.sql.SparkSession
 

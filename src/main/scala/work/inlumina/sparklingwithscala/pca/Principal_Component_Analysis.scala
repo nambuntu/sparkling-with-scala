@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.pca
+package work.inlumina.sparklingwithscala.pca
 
 import org.apache.spark.ml.feature.PCA
 import org.apache.spark.ml.linalg.Vectors

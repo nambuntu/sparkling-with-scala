@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.df
+package work.inlumina.sparklingwithscala.df
 
 import org.apache.log4j.{Level, LogManager}
 import org.apache.spark.sql.SparkSession

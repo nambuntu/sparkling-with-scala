@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.basic
+package work.inlumina.sparklingwithscala.basic
 
 import org.apache.spark.ml.linalg.{Matrix, Vectors}
 import org.apache.spark.ml.stat.Correlation

@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.recommendation
+package work.inlumina.sparklingwithscala.recommendation
 
 import java.text.SimpleDateFormat
 import java.util.Calendar

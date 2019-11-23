@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.kmean
+package work.inlumina.sparklingwithscala.kmean
 
 import org.apache.spark.ml.clustering.KMeans
 import org.apache.spark.sql.SparkSession

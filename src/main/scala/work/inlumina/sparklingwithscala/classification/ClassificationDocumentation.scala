@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.classification
+package work.inlumina.sparklingwithscala.classification
 
 import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.sql.SparkSession

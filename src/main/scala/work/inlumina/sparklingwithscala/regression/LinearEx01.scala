@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.regression
+package work.inlumina.sparklingwithscala.regression
 
 import org.apache.spark.ml.regression.LinearRegression
 import org.apache.spark.sql.SparkSession

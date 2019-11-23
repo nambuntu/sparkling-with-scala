@@ -1,4 +1,4 @@
-package work.inlumina.sparkwscala.evaluation
+package work.inlumina.sparklingwithscala.evaluation
 
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.LogisticRegression
